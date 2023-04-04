@@ -30,6 +30,7 @@ public class Flight {
     }
 
     public int getFlightId() {
+
         return flightId;
     }
 

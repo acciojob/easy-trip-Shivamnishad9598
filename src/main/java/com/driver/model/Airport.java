@@ -20,14 +20,17 @@ public class Airport {
     }
 
     public String getAirportName() {
+
         return airportName;
     }
 
     public void setAirportName(String airportName) {
+
         this.airportName = airportName;
     }
 
     public int getNoOfTerminals() {
+
         return noOfTerminals;
     }
 
